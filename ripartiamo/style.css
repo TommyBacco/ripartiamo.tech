@@ -1,0 +1,358 @@
+div.form-group{
+	text-align: center;
+	width: 
+     -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+.form-check{
+
+	display: inline-block;
+}
+
+#settore{
+	padding-top: 15px;
+}
+#dipendenti{
+		padding-top: 20px;
+
+}
+
+#sito{
+			padding-top: 20px;
+
+}
+
+#mybutton{
+				margin-top: 25px;
+
+}
+
+#social{
+				padding-top: 20px;
+
+}
+
+#inlineFormCustomSelect{
+	width: 50%;
+}
+
+div.list-group{
+	width: 50%;
+	margin-left: 19%;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+ 
+
+
+div.azioni{
+
+	margin-left: 40%;
+
+}
+
+div.button{
+	text-align: center;
+	padding: 10px;
+}
+
+div.buttonIndex{
+	text-align: center;
+	padding: 10px;
+	margin-top: 15%;
+}
+
+input.form-control {
+  display: inline-block;
+  float: center;
+width: 50%
+}
+
+div.container{
+	width: 50%;
+}
+
+.map-container-4{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+#map {
+    position: relative;
+    margin-left: 25%;
+}
+
+.geocoder {
+margin-left: 25%;
+width: 100%;
+padding-bottom: 20px;
+display: inline-block;
+ -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+#testo{
+width: 100%;
+display: inline-block;
+margin-right: 25%;
+height: 50%;
+}
+
+#label{
+	padding-top: 20px;
+}
+
+
+#divRadio{
+	padding-top: 10px;
+}
+
+label[class="btn btn-secondary"]{
+	width: 60px;
+		background-color: #007bff;
+	border: 1px solid black;
+}
+
+label[class="btn btn-secondary active"]{
+	width: 60px;
+	background-color: white;
+
+}
+
+div[class='btn-group btn-group-toggle']{
+	padding-bottom: 30px;
+	padding-top: 10px;
+}
+
+
+
+
+button[class="btn btn-primary"]{
+
+background-color: #007bff;
+-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+ @media only screen and (min-width: 768px) {
+
+  .footer {
+    margin-left: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 60px;
+    background-color: transparent;
+}
+
+ 	div.list-group{
+	width: 50%;
+	margin-left: 25%;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+          }
+
+.split {
+  height: 80%;
+  width: 50%;
+  position: fixed;
+  overflow-x: hidden;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  background-color: transparent;
+  border-right: 1px solid lightgray;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-color: transparent;
+}
+
+#scopri{
+  padding-top: 117px;
+}
+
+h3{
+  font-size: 20px;
+       -webkit-animation: slidein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: slidein 2s; /* Firefox < 16 */
+        -ms-animation: slidein 2s; /* Internet Explorer */
+         -o-animation: slidein 2s; /* Opera < 12.1 */
+            animation: slidein 2s;
+}
+}
+ 
+
+h2{
+
+	line-height: 2;
+	font-size: 24px;
+  -webkit-animation: slidein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: slidein 2s; /* Firefox < 16 */
+        -ms-animation: slidein 2s; /* Internet Explorer */
+         -o-animation: slidein 2s; /* Opera < 12.1 */
+            animation: slidein 2s;
+
+}
+body {
+  background-color: white; 
+ }
+
+
+/*Cookie Consent Begin*/
+#cookieConsent {
+    background-color: rgba(20,20,20,0.8);
+    min-height: 26px;
+    font-size: 14px;
+    color: #ccc;
+    line-height: 26px;
+    padding: 8px 0 8px 30px;
+    font-family: "Trebuchet MS",Helvetica,sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    z-index: 1;
+}
+#cookieConsent a {
+    color: #4B8EE7;
+    text-decoration: none;
+}
+#closeCookieConsent {
+    float: right;
+    display: inline-block;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin: -15px 0 0 0;
+    font-weight: bold;
+}
+#closeCookieConsent:hover {
+    color: #FFF;
+}
+#cookieConsent a.cookieConsentOK {
+    background-color: #F1D600;
+    color: #000;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 0 20px;
+    cursor: pointer;
+    float: right;
+    margin: 0 60px 0 10px;
+}
+#cookieConsent a.cookieConsentOK:hover {
+    background-color: #E0C91F;
+}
+/*Cookie Consent End*/
+
+.Benvenuti{
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+
+}
+
+h2{-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;}
+
+#ciao{     -webkit-animation: slidein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: slidein 2s; /* Firefox < 16 */
+        -ms-animation: slidein 2s; /* Internet Explorer */
+         -o-animation: slidein 2s; /* Opera < 12.1 */
+            animation: slidein 2s;}
+#grazie{     -webkit-animation: slidein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: slidein 2s; /* Firefox < 16 */
+        -ms-animation: slidein 2s; /* Internet Explorer */
+         -o-animation: slidein 2s; /* Opera < 12.1 */
+            animation: slidein 2s;}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 20%;
+  }
+
+  to {
+    margin-left: 0%;
+  }
+}
+
+a{
+  color: #fff;
+}
+
+
+*{
+  font-family:Roboto;
+  color: gray;
+}
+
+nav[class="navbar navbar-light"]{
+  background-color: #007bff;
+    box-shadow: 0 0 5px 5px;
+    position: fixed;
+    width: 100%;
+}
+
+.footer {
+    margin-left: 50px;
+  }
+
+
